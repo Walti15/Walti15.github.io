@@ -1,1 +1,7 @@
 # Dies ist die Ueberschrift der Webseite zu meinem Lieblingscharakter!
+
+Hier steht die Beschreibung meines Lieblingscharakters. Da steht eine Menge Unsinn, 
+das macht aber nichts, denn es geht ja nur darum, 30 bis 50 Wörter zu erfassen.
+Ist das schon genug Text? Leider nein, deshalb folgen nun noch zwei Zeilen.
+Dies ist die erste Zeile, sie berichtet vom  allzu frühen Ableben des Idols.
+Sie zweite Zeile berichtet von der Rezeption des Idols durch die Nachwelt.

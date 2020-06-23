@@ -5,3 +5,14 @@ das macht aber nichts, denn es geht ja nur darum, 30 bis 50 Woerter zu erfassen.
 Ist das schon genug Text? Leider nein, deshalb folgen nun noch zwei Zeilen.
 Dies ist die erste Zeile, sie berichtet vom  allzu fruehen Ableben des Idols.
 Sie zweite Zeile berichtet von der Rezeption des Idols durch die Nachwelt.
+
+## Entwicklungsgang
+
+* Kind
+* Jungstar
+* Hauptstar
+* Altstar
+
+Er sagte oft:
+
+> Die Macht des Zitats sei mit dir!

@@ -13,6 +13,6 @@ Sie zweite Zeile berichtet von der Rezeption des Idols durch die Nachwelt.
 * Hauptstar
 * Altstar
 
-Er sagte oft:
+Er sagte oft:123
 
 > Die Macht des Zitats sei mit dir!

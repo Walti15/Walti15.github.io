@@ -17,4 +17,4 @@ Er sagte oft:
 
 > Die Macht des Zitats sei mit dir!
 
-<img src="https://pixabay.com/de/photos/star-wars-darth-vader-dunkel-darth-1386790/"
+<img src="https://pixabay.com/de/photos/star-wars-darth-vader-dunkel-darth-1386790/">
